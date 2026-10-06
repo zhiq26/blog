@@ -1,0 +1,4 @@
+baseURL = "https://zhiq.dev/"
+local = "zh-cn"
+title = "ZhiQ"
+theme = "PaperMod"
