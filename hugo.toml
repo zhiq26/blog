@@ -1,4 +1,10 @@
 baseURL = "https://zhiq.dev/"
-local = "zh-cn"
+local = "zh-CN"
 title = "ZhiQ"
 theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = "always"
