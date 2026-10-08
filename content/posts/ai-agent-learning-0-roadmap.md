@@ -26,14 +26,16 @@ TocOpen: true
 
 ### 2.2、mini-swe-agent
 
+[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) 是 swe-agent 的超级简化版本，适合入门阅读
 
+[源码阅读笔记](ai-agent-learning-2-mini-swe-agent.md)
 
-### 2.3、pi
-
-
-
-### 2.4、暂定 opencode
+### 2.3、swe-agent
 
 
 
-### 2.5、暂定 deepseek-harness
+### 2.4、pi
+
+
+
+### 2.5、opencode、deepseek-harness 等
