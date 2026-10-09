@@ -30,12 +30,10 @@ TocOpen: true
 
 [源码阅读笔记](ai-agent-learning-2-mini-swe-agent.md)
 
-### 2.3、swe-agent
+### 2.3、pi
 
+[pi](https://github.com/earendil-works/pi) 是一个比较小型的，但比较完整的 agent harness 系统；构成其的许多模块都可以有相应的扩展。
 
+[源码阅读笔记](ai-agent-learning-3-pi-agent.md)
 
-### 2.4、pi
-
-
-
-### 2.5、opencode、deepseek-harness 等
+### 2.4、opencode、deepseek-harness 等
